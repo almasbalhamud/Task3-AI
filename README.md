@@ -15,6 +15,7 @@
   <img width="319" height="229" alt="image" src="https://github.com/user-attachments/assets/e8f874e4-3f92-4300-a8f3-1b1594a18359" />
 
 3. اضغط على ابدأ التسجيل
+
 4.سيتم أولاً تسجيل صوتك وتحويله إلى نص، ثم يتم إنشاء رد مكتوب بناءً على ذلك، وأخيرًا يتم تحويل الرد إلى صوت للنطق به .
 ## النتائج المتوقعة✅:
 <img width="829" height="694" alt="image" src="https://github.com/user-attachments/assets/62ef304a-440b-4d0c-bfe4-94c1aa98b619" />
